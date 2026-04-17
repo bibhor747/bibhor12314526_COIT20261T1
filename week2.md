@@ -67,7 +67,6 @@ This lab helped me understand networking basics practically. I learned how to as
 
 ---
 
-## Screenshots to Upload
-- Setting-IP-12314526-network.png
-- Host screenshots
-- Ping screenshots
+## Screenshots 
+![topology](images/topology.png)
+![sucess](images/ping-success.png)
