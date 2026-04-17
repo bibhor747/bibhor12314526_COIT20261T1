@@ -29,13 +29,10 @@ A private GitHub repository was created for this unit using the naming format re
 
 ### Required repository name
 ```text
-[student-number]-[COIT20261]-[2026T1]
+[12314526]-[COIT20261]-[2026T1]
 ```
 
-### Example
-```text
-12345678-COIT20261-2026T1
-```
+
 
 ### Repository preparation
 - Created the repository as **private**
@@ -56,12 +53,12 @@ The aim of this task was to gain basic familiarity with GNS3 by creating a proje
 
 ### Project name
 ```text
-GNS3-Intro-[studentid]
+GNS3-Intro-[12314526]
 ```
 
 ### Example
 ```text
-GNS3-Intro-12345678
+GNS3-Intro-12314526
 ```
 
 ### Node used
