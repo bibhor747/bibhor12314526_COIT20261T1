@@ -114,9 +114,7 @@ Overall, this lab improved my understanding of VLANs and network segmentation.
 ---
 
 # Screenshots Required
-
-- Vlan-Basics-12314526-network.png
-- Vlan-Basics-12314526-ports.png
-- Vlan-Router-12314526-network.png
-- Vlan-Router-12314526-ports.png
+![](images/week-5.png)
+![](images/week5-2.png)
+![](images/week5.png) 
 
