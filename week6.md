@@ -120,10 +120,8 @@ Overall, this lab improved my understanding of both local communication and netw
 ---
 
 # Screenshots Required
-
-- ARP-Basics-12314526-HostA-Table.png
-- Default-Gateway-12314526-network.png
-- Routing table screenshots
-- Ping success screenshot
-
+![](images/6wek.png)
+![](images/week-6.png)
+![](images/week-6_.png)
+![](images/week-6.png)
 
