@@ -141,21 +141,11 @@ ip address show
 The following evidence files should be uploaded to the repository:
 
 1. **Exported project file**  
-   `GNS3-Intro-[studentid].gns3project`
-
-2. **Network screenshot**  
-   `GNS3-Intro-[studentid]-network.png`
-
-3. **Console screenshot showing IP address**  
-   `GNS3-Intro-[studentid]-ipaddress.png`
-
----
-
-## 12. Suggested GitHub Folder Structure
+   ![name](images/introduction.png)
+   ![network](images/network ip.png)
 
 
 
----
 ## 13. Reflection
 This week helped me understand the practical structure of the unit and how to document networking tasks properly. I learned how to create a basic GNS3 project, assign a static IP address to a Linux Host, and verify the configuration using the command line. I also understood the importance of keeping portfolio work organised in GitHub, because it will make future weekly submissions easier to manage and present professionally.
 
