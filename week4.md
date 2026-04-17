@@ -124,10 +124,7 @@ Overall, this lab improved my understanding of routing, forwarding, and network 
 
 # Screenshots Required
 
-- View-Routes-12314526-network.png
-- Routing table outputs
-- Ping test screenshot
-- OSPF network screenshot
-- Traceroute outputs (before and after)
+![topology](images/View-Routes-12314526-routing.png)
+![](images/View-Routes-12314526.png)  
 
 
