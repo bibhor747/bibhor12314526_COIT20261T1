@@ -155,20 +155,10 @@ The following evidence files should be uploaded to the repository:
 ---
 
 ## 12. Suggested GitHub Folder Structure
-```text
-[student-number]-COIT20261-2026T1/
-│
-├── Week01/
-│   ├── README.md
-│   ├── GNS3-Intro-[studentid].gns3project
-│   ├── GNS3-Intro-[studentid]-network.png
-│   └── GNS3-Intro-[studentid]-ipaddress.png
-│
-└── assets/
-```
+
+
 
 ---
-
 ## 13. Reflection
 This week helped me understand the practical structure of the unit and how to document networking tasks properly. I learned how to create a basic GNS3 project, assign a static IP address to a Linux Host, and verify the configuration using the command line. I also understood the importance of keeping portfolio work organised in GitHub, because it will make future weekly submissions easier to manage and present professionally.
 
