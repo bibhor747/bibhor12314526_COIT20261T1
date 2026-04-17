@@ -142,7 +142,8 @@ The following evidence files should be uploaded to the repository:
 
 1. **Exported project file**  
    ![name](images/introduction.png)
-   ![network](images/network ip.png)
+
+   ![network](images/networkip.png)
 
 
 
