@@ -71,7 +71,7 @@ Packet capture was also very useful. It helped me see how data travels in the ne
 
 # Screenshots Required
 
-- Netcat-Basics-12314526-client-server.png
-- Capture file (.pcap)
+- ![clint](images/clintandserver.png) 
+![pcap](images/week3-12314526-bibhor-subedi.pcap) 
 
 
